@@ -1,4 +1,4 @@
-# jQuery-Form-Validation-
+# jQuery Form Validation with Regular expression -
 jQuery Form Validation with Regular expression
 
 hi everyone,
